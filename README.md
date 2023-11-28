@@ -1,5 +1,5 @@
 # Lab6_Web
-Modules - API y LocalStorage
+Modules - API y Local Storage
 # Integrantes
 * Jared Valenzuela
 * Joseph Yepez
